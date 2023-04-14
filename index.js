@@ -124,6 +124,7 @@ equal.addEventListener('click',()=>{
     }
     if (swicth == 'times'){
         indicatValue.value = Reserve *indicatValue.value
+    }
     if (swicth == 'divided'){
         indicatValue.value = Reserve /indicatValue.value
     }
